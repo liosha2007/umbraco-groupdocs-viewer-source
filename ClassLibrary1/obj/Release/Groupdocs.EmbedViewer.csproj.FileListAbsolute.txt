@@ -1,0 +1,5 @@
+D:\projects\dotNet\plugins\Viewer\Umbraco\ClassLibrary1\bin\Release\Groupdocs.EmbedViewer.dll
+D:\projects\dotNet\plugins\Viewer\Umbraco\ClassLibrary1\bin\Release\Groupdocs.EmbedViewer.pdb
+D:\projects\dotNet\plugins\Viewer\Umbraco\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+D:\projects\dotNet\plugins\Viewer\Umbraco\ClassLibrary1\obj\Release\Groupdocs.EmbedViewer.dll
+D:\projects\dotNet\plugins\Viewer\Umbraco\ClassLibrary1\obj\Release\Groupdocs.EmbedViewer.pdb
